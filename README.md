@@ -15,6 +15,8 @@
 - [Visual Question Answering: Datasets, Algorithms, and Future Challenges](https://arxiv.org/pdf/1610.01465.pdf)
 - [Visual question answering: A survey of methods and datasets](https://arxiv.org/pdf/1607.05910.pdf)
 - [Survey of Visual Question Answering: Datasets and Techniques](https://arxiv.org/pdf/1705.03865.pdf)
+- [awesome-vqa](https://github.com/chingyaoc/awesome-vqa)
+- [awesome-visual-question-answering](https://github.com/jokieleung/awesome-visual-question-answering)
 
 ### Tutorial
 
@@ -34,7 +36,7 @@
 
 - [一文看懂深度学习中的VQA(视觉问答)技术](https://zhuanlan.zhihu.com/p/35305264)
 - [一文带你了解视觉问答VQA](https://www.jianshu.com/p/76d2e081e303)
-- [CV+NLP】更有智慧的眼睛：图像描述（Image Caption）&视觉问答（VQA）综述（上）](https://zhuanlan.zhihu.com/p/52499758)
+- [【CV+NLP】更有智慧的眼睛：图像描述（Image Caption）&视觉问答（VQA）综述（上）](https://zhuanlan.zhihu.com/p/52499758)
 - [由浅及深，细致解读图像问答 VQA 2018 Challenge 冠军模型 Pythia](https://zhuanlan.zhihu.com/p/56505674)
 - [DeepMind提出视觉问答新模型，CLEVR精度98.8％](https://zhuanlan.zhihu.com/p/41546921)
 - [学界 | 视觉问答全景概述：从数据集到技术方法](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650727250&idx=4&sn=161751cc5999099b1b217ed659a17aa2)
